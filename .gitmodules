@@ -1,5 +1,3 @@
-[submodule "traccar-web"]
-	path = traccar-web
-	url = ../traccar-web.git
-	branch = master
-	ignore = all
+[submodule "vtr-web"]
+	path = vtr-web
+	url = https://github.com/drattek/vtr-web.git
